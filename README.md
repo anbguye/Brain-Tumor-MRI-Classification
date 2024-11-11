@@ -46,8 +46,6 @@ pip install tensorflow opencv-python streamlit pillow google-generativeai python
 - Add your Google API key for Gemini
 - Add your Ngrok authentication token
 
-- (If using google colab, can just put them into secrets tab without creating having to create new .env every runtime)
-
 3. Run the Streamlit app:
    streamlit run app.py
 
